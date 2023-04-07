@@ -1,0 +1,44 @@
+@charset "UTF-8";
+.list_headings {
+    font-family: "Broadacre Hairline 0", "Broadacre Light 0", "Broadacre Medium 0", "Broadacre Regular 0", "Broadacre Thin 0", Raleway, "Raleway ExtraLight", "Raleway Light", "Raleway Medium", "Raleway Thin";
+    color: #0E619D;
+    font-size: medium;
+    align-content: center;
+}
+#table1 {
+  width: 0%;
+	border: 0%;
+}
+#cell1 {
+	width: 732px; 
+	rowspan: 3px;
+}
+#cell2 {
+	width: 140px;
+	height: 36px;
+}
+#cell3 {
+	width: 136px; 
+}
+#cell4 {
+	 height: 57px;
+	colspan: 2px;
+}
+#cell5 {
+    width: 872px;
+	colspan: 2px;
+    text-align: right;
+}
+#table2 {
+	width: 1011px; 
+	border: 0px;
+}
+#cell6 {
+	width: 354px; 
+}
+#cell7 {
+	width: 324px;
+}
+#cell8 {
+	width: 319px;
+}
